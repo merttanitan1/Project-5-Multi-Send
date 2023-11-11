@@ -1,5 +1,0 @@
-• Proje Amacı: Birden çok alıcıya aynı anda kripto varlık gönderimini kolaylaştırmak.
-• Temel Özellikler:
-	• Kullanıcıların birden fazla alıcıya aynı anda kripto varlık gönderebilmesi.
-	• Gönderim işlemlerinin güvenli ve otomatik bir şekilde gerçekleştirilmesi.
-	• İşlem geçmişinin görüntülenebilmesi.		
